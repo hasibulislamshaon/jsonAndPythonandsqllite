@@ -45,4 +45,4 @@ for entry in json_data:
     ''',(title,))
     consl.execute('''
     
-   
+    ''')
