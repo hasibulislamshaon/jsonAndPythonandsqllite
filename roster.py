@@ -43,6 +43,6 @@ for entry in json_data:
     insert or ignore into course(title)
     values(?)
     ''',(title,))
-    .execute('''
+    consl.execute('''
     
     ''')
